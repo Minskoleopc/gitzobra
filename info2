@@ -1,0 +1,22 @@
+
+Step 1 : - download the git 
+https://git-scm.com/downloads   
+
+Step 2 :- Create the Git hub account  (username , passsword and verify your email)
+https://github.com/
+
+Step 3 :- Create folder Gitpractice with file (create the file with notepad and save the file with name abc.txt)
+
+Step 4: git config --global user.name "kabi9"
+
+Step 5 git config --global user.email "xyz@gmail.com
+
+Step 6 : open terminal and move to folder
+
+Step 7 : git init  
+
+Step 8 : git add . / git add info.txt
+
+Step 9 : git commit -m "login feature"
+
+Step 10 : Open the github account and create new repo
